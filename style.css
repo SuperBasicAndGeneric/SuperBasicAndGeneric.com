@@ -1,0 +1,11 @@
+@font-face {
+    font-family: prstart;
+    src: url(prstart.ttf);
+}
+
+
+body {
+  text-align: center;
+  font-family: prstart;
+  background-color: seashell;
+}
